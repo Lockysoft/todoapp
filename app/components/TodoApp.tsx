@@ -56,7 +56,7 @@ export default function TodoApp() {
           aria-label="Yeni görev"
         />
         <button className={styles.addButton} type="submit">
-          Ekle AQ
+          Ekle
         </button>
       </form>
 
